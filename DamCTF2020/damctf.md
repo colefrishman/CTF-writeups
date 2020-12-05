@@ -134,7 +134,7 @@ The website at damctf.xyz is no longer up, so I could not link to the challenge.
 
 5. Instead, I wrote a script in node.js that queries planetariumOne for each upcoming date, one-by-one, until I found one with an eclipse. The script is as follows:
 
-   ```
+   ```javascript
    const fetch = require("node-fetch");
    
    var going=false;
