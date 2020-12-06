@@ -1,0 +1,8 @@
+Archived Pastebin: https://web.archive.org/web/20201205012524/https://pastebin.com/j6Xd9GNM
+Here's a flag for your efforts: pbctf{3nc0d1ng_w1th_ass3mbly}.
+
+Hex:
+486572652773206d79206d79206c696e6b3a2068747470733a2f2f706173746562696e2e636f6d2f6a36586439474e4d20203c2d2d2048656865212053656520696620796f752063616e205245206d65
+
+decoded string: 
+Here's my my link: https://pastebin.com/j6Xd9GNM  <-- Hehe! See if you can RE me
