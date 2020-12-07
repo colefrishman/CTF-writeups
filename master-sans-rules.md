@@ -66,7 +66,7 @@ dam{I_hope_you_did_this_manually}
 
 ### misc/pretty-good (OSINT)
 
-This was an asynchronous group effort, but I'm not sure if the other people were in CIS4024
+This was an asynchronous group effort, but I'm not sure if the other people were in CIS4204
 
 The website at damctf.xyz is no longer up, so I could not link to the challenge.
 
@@ -272,7 +272,7 @@ The website at https://cyberyoddha.baycyber.net/ is no longer up, so I could not
 
 #### Description:
 
-​	Microsoft has been threatened by a secret hacker for the last couple of years. This hacker has been infiltrating their network and exposing secret information about them to the world. Microsoft is determined to catch this hacker. They set up a computer with vulnerabilities and attempt to lure this hacker into trying to hack this computer in order to reveal his origins. What is this type of system called?{no wrapper needed}
+​	Microsoft has been threatened by a secret hacker for the last couple of years. This hacker has been infiltrating their network and exposing secret information about them to the world. Microsoft is determined to catch this hacker. They set up a computer with vulnerabilities and attempt to lure this hacker into trying to hack this computer in order to reveal his origins. What is this type of system called? {no wrapper needed}
 
 #### Solution:
 
@@ -310,7 +310,7 @@ The website at https://cyberyoddha.baycyber.net/ is no longer up, so I could not
 
 #### Description:
 
-​	A Hacker infiltrated one of Microsoft's servers and set up malware inside. The malware laid dormant for months, being unnoticed by the server admins. On Thanksgiving Day, the malware was activated, and it crashed all of the servers and the entire network. What is this type of malware called? {no wrapper needed}
+​	What built-in Windows tool can you use to repair corrupted files? {no wrapper needed}
 
 #### Solution:
 
@@ -388,7 +388,7 @@ securepassword
 
 ### stego/astatine
 
-This was an individual effort
+I was aided on this one by noopnoop, who hinted that Astatine was code for ASCII85.
 
 The website at https://2020.affinityctf.com/challenges is no longer up, so I could not link to the challenge.
 
@@ -414,7 +414,7 @@ AFFCTF{n0t_3nc0d3d}
 
 ### misc/not-stego
 
-This was an individual effort
+I was aided on this one by noopnoop, who suggested that the bytes in the data section should interpreted as text. 
 
 This ctf did not have individually linked challenges, so I could not link to the challenge. The ctf was hosted at https://ctf.perfect.blue/.
 

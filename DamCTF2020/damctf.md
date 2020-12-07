@@ -86,7 +86,7 @@ dam{I_hope_you_did_this_manually}
 
 ### misc/pretty-good (OSINT)
 
-This was an asynchronous group effort, but I'm not sure if the other people were in CIS4024
+This was an asynchronous group effort, but I'm not sure if the other people were in CIS4204
 
 The website at damctf.xyz is no longer up, so I could not link to the challenge.
 

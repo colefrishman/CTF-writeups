@@ -22,7 +22,7 @@ pbctf{y0u_kn0w_the_ru1es_4nd_s0_d0_i}
 
 ### misc/not-stego
 
-This was an individual effort
+I was aided on this one by noopnoop, who suggested sthat the bytes in the data section should interpreted as text. 
 
 This ctf did not have individually linked challenges, so I could not link to the challenge. The ctf was hosted at https://ctf.perfect.blue/.
 

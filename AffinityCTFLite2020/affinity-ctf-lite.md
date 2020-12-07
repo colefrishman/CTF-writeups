@@ -2,7 +2,7 @@
 
 ### stego/astatine
 
-This was an individual effort
+I was aided on this one by noopnoop, who hinted that Astatine was code for ASCII85.
 
 The website at https://2020.affinityctf.com/challenges is no longer up, so I could not link to the challenge.
 

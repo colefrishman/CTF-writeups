@@ -2,7 +2,7 @@
 
 ### stego/astatine
 
-This was an individual effort
+I was aided on this one by noopnoop, who hinted that Astatine was code for ASCII85.
 
 The website at https://2020.affinityctf.com/challenges is no longer up, so I could not link to the challenge.
 
@@ -19,3 +19,4 @@ The website at https://2020.affinityctf.com/challenges is no longer up, so I cou
 3. A converter from between text and scii85 can be found here: https://cryptii.com/pipes/ascii85-encoding . One could use this to decode and get the flag from the given string.
 
 AFFCTF{n0t_3nc0d3d}
+
