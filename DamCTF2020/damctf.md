@@ -222,7 +222,7 @@ dam{InvAd3_w1T0ut_4_w4R}
 
 
 
-### misc/rules
+### misc/damctf-survey
 
 This was an individual effort
 

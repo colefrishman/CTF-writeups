@@ -1,6 +1,6 @@
 ## DamCTF - 10/09/2020 - 10/11/2020
 
-### misc/rules
+### misc/damctf-survey
 
 This was an individual effort
 
